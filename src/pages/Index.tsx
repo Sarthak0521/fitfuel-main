@@ -36,7 +36,7 @@ const testimonials = [
     avatar: "AJ",
   },
   {
-    name: "Udita Sinha",
+    name: "Vaishnavi Patil",
     role: "Beginner Lifter",
     quote: "As a complete beginner, I was overwhelmed by all the gym info out there. FitFuel made everything simple and easy to understand.",
     avatar: "SW",
