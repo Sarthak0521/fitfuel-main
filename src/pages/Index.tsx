@@ -45,7 +45,7 @@ const testimonials = [
     name: "Sarthak Patil",
     role: "Intermediate Athlete",
     quote: "The nutrition plans are spot on! I've seen amazing results following the muscle gain meal plan and workout routines.",
-    avatar: "MC",
+    avatar: "SP",
   },
 ];
 
