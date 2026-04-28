@@ -30,7 +30,7 @@ const features = [
 
 const testimonials = [
   {
-    name: "Raj Sharma",
+    name: "Shantanu Patil",
     role: "Fitness Enthusiast",
     quote: "FitFuel transformed my approach to fitness. The workout guides are incredibly detailed and the supplement info helped me make informed choices.",
     avatar: "AJ",
