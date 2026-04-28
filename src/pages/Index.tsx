@@ -50,7 +50,7 @@ const testimonials = [
 ];
 
 const stats = [
-  { value: "50+", label: "Workout Exercises" },
+  { value: "20+", label: "Workout Exercises" },
   { value: "8+", label: "Supplements Covered" },
   { value: "3", label: "Meal Plan Goals" },
   { value: "100%", label: "Free Access" },
