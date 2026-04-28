@@ -54,7 +54,7 @@ const Login = () => {
         });
         
         if (result.success) {
-          toast({ title: "Account created!", description: "Welcome to FitFuel." });
+          toast({ title: "Account created!", description: "Account created successfully!📩 Check your email inbox (Gmail)👉 Open the email from FitFuel👉 Click on Verify Email After that, come back and log in." });
           navigate("/nutrition");
         } else {
           toast({ title: "Registration failed", description: result.error || "Could not create account.", variant: "destructive" });
