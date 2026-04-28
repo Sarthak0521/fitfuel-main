@@ -143,9 +143,9 @@ const Contact = () => {
             )}
             <div className="space-y-6">
               {[
-                { icon: Mail, label: "Email", value: "hello@fitfuel.com" },
-                { icon: Phone, label: "Phone", value: "+1 (555) 123-4567" },
-                { icon: MapPin, label: "Location", value: "San Francisco, CA" },
+                { icon: Mail, label: "Email", value: "fitfuel2405@gmail.com" },
+                { icon: Phone, label: "Phone", value: "+918999375906" },
+                { icon: MapPin, label: "Location", value: "Pune,India" },
               ].map((item, i) => (
                 <div key={i} className="flex items-center gap-4 p-6 rounded-2xl bg-card border border-border">
                   <div className="w-12 h-12 rounded-lg gradient-primary flex items-center justify-center">
