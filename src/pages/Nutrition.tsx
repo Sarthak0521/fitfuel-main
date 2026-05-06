@@ -25,7 +25,7 @@ const Nutrition = () => {
   const macroData = [
     { name: "Protein", value: activePlan.macroRatio.protein, color: "hsl(142, 76%, 46%)" },
     { name: "Carbs", value: activePlan.macroRatio.carbs, color: "hsl(30, 100%, 55%)" },
-    { name: "Fats", value: activePlan.macroRatio.fats, color: "hsl(0, 0%, 45%)" },
+    { name: "Fats", value: activePlan.macroRatio.fats, color: "hsl(0, 27.70%, 39.60%)" },
   ];
 
   const goalIcons = {
